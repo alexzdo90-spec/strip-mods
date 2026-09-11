@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://alexzdo90-spec.github.io/strip-mods/sitemap.xml

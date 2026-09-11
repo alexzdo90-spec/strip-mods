@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t3">
+<title id="t3">Hourglass and clock illustration representing hourly draws</title>
+<rect width="200" height="200" rx="18" fill="#142147"/>
+<circle cx="100" cy="100" r="56" fill="none" stroke="#00d8ff" stroke-width="6"/>
+<path d="M100 100 L100 62" stroke="#ffcd2e" stroke-width="7" stroke-linecap="round"/>
+<path d="M100 100 L132 108" stroke="white" stroke-width="6" stroke-linecap="round"/>
+<circle cx="100" cy="100" r="6" fill="#ffcd2e"/>
+<path d="M70 48 Q100 62 130 48" stroke="#8a6bff" stroke-width="4" fill="none" opacity="0.8"/>
+</svg>

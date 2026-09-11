@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-labelledby="t4">
+<title id="t4">Documentation guide illustration with stacked pages</title>
+<rect width="200" height="200" rx="18" fill="#142147"/>
+<rect x="50" y="40" width="90" height="120" rx="10" fill="white" opacity="0.95"/>
+<rect x="65" y="60" width="60" height="6" rx="3" fill="#142147"/>
+<rect x="65" y="76" width="60" height="6" rx="3" fill="#00d8ff"/>
+<rect x="65" y="92" width="45" height="6" rx="3" fill="#a6b0d1"/>
+<rect x="65" y="108" width="60" height="6" rx="3" fill="#a6b0d1"/>
+<circle cx="150" cy="135" r="22" fill="#ffcd2e" stroke="#ffe27a" stroke-width="2"/>
+<text x="150" y="141" text-anchor="middle" font-size="12" font-weight="900" fill="#1a1200">18+</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Legal Methods token icon">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00d8ff"/>
+      <stop offset="55%" stop-color="#8a6bff"/>
+      <stop offset="100%" stop-color="#ffcd2e"/>
+    </linearGradient>
+    <radialGradient id="r" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#ffe27a"/>
+      <stop offset="35%" stop-color="#ffcd2e"/>
+      <stop offset="75%" stop-color="#ffb800"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="#0a0f24"/>
+  <circle cx="32" cy="32" r="22" fill="url(#g)" opacity="0.95"/>
+  <circle cx="32" cy="32" r="18" fill="url(#r)" stroke="rgba(255,255,255,0.7)" stroke-width="1.2"/>
+  <text x="32" y="38" text-anchor="middle" font-family="Inter, system-ui, sans-serif" font-size="16" font-weight="900" fill="#1a1200">50</text>
+  <circle cx="32" cy="32" r="22" fill="none" stroke="rgba(255,255,255,0.12)" stroke-width="1"/>
+</svg>
